@@ -3,7 +3,7 @@
 
 int main() {
     // Définir le mot de passe correct
-    char motDePasseCorrect[] = "NonoLePlusBeau";
+    char motDePasseCorrect[] = "FakePassword";
             
     // Demander à l'utilisateur de saisir le mot de passe
     char motDePasseSaisi[100]; // Vous pouvez ajuster la taille selon vos besoins
